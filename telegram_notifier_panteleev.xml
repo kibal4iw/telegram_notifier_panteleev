@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<umidump xmlns:xlink="http://www.w3.org/TR/xlink" version="2.0">
+  <meta>
+    <site-name><![CDATA[]]></site-name>
+    <domain><![CDATA[local.umi]]></domain>
+    <lang><![CDATA[ru]]></lang>
+    <source-name><![CDATA[telegram_notifier_panteleev]]></source-name>
+    <generate-time>
+      <timestamp>1534702659</timestamp>
+      <rfc>Sun, 19 Aug 2018 21:17:39 +0300</rfc>
+      <utc>2018-08-19T21:17:39+03:00</utc>
+    </generate-time>
+  </meta>
+  <registry/>
+  <directories>
+    <directory path="./classes/components/telegram_notifier_panteleev" name="telegram_notifier_panteleev">/classes/components/telegram_notifier_panteleev</directory>
+  </directories>
+  <files>
+    <file path="./classes/components/telegram_notifier_panteleev/admin.php" size="2404" ext="php" hash="f7d346a4f42eb873595eae4dea32938f" name="admin.php">/classes/components/telegram_notifier_panteleev/admin.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/class.php" size="4413" ext="php" hash="5b48c3677d337aa682d008bf738ebab6" name="class.php">/classes/components/telegram_notifier_panteleev/class.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/customAdmin.php" size="124" ext="php" hash="2e0f528023210e332dd0dd5b4d77a9d3" name="customAdmin.php">/classes/components/telegram_notifier_panteleev/customAdmin.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/customMacros.php" size="123" ext="php" hash="6f69163052b68fef20e748ec6d837397" name="customMacros.php">/classes/components/telegram_notifier_panteleev/customMacros.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/events.php" size="368" ext="php" hash="eb63197699adcea61afd6a1306030581" name="events.php">/classes/components/telegram_notifier_panteleev/events.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/handlers.php" size="1296" ext="php" hash="499101b257d5779ce843fad7f4da3e3f" name="handlers.php">/classes/components/telegram_notifier_panteleev/handlers.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/i18n.php" size="555" ext="php" hash="ca95697dc9f0df25b873bc1f1538e857" name="i18n.php">/classes/components/telegram_notifier_panteleev/i18n.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/install.php" size="2078" ext="php" hash="da3eb32ef0960e4a9ce3f59b68d0c124" name="install.php">/classes/components/telegram_notifier_panteleev/install.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/lang.php" size="80" ext="php" hash="bb359fa91f826e968e5676d881bc6be7" name="lang.php">/classes/components/telegram_notifier_panteleev/lang.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/macros.php" size="119" ext="php" hash="a0ea4febd3cc7bb986f34c01987d4167" name="macros.php">/classes/components/telegram_notifier_panteleev/macros.php</file>
+    <file path="./classes/components/telegram_notifier_panteleev/permissions.php" size="333" ext="php" hash="bf4e0c42d34c5772ace8f8d026e1199d" name="permissions.php">/classes/components/telegram_notifier_panteleev/permissions.php</file>
+    <file path="./images/cms/admin/modern/icon/telegram_notifier_panteleev.png" size="2453" ext="png" hash="76317d01fbaf1b2e53895f2c749ac0c6" name="telegram_notifier_panteleev.png">/images/cms/admin/modern/icon/telegram_notifier_panteleev.png</file>
+    <file path="./man/ru/telegram_notifier_panteleev/config.html" size="1542" ext="html" hash="a02241c9e4b4a7fc4c12ef65ef672248" name="config.html">/man/ru/telegram_notifier_panteleev/config.html</file>
+  </files>
+  <langs/>
+  <domains/>
+  <templates/>
+  <datatypes/>
+  <types/>
+  <objects/>
+  <pages/>
+  <relations/>
+  <options/>
+  <restrictions/>
+  <permissions/>
+  <hierarchy/>
+  <entities/>
+</umidump>
